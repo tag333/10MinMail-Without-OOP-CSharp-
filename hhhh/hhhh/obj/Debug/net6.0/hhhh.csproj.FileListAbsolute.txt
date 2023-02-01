@@ -1,0 +1,15 @@
+/Users/lubov_14/Projects/hhhh/hhhh/bin/Debug/net6.0/hhhh
+/Users/lubov_14/Projects/hhhh/hhhh/bin/Debug/net6.0/hhhh.deps.json
+/Users/lubov_14/Projects/hhhh/hhhh/bin/Debug/net6.0/hhhh.runtimeconfig.json
+/Users/lubov_14/Projects/hhhh/hhhh/bin/Debug/net6.0/hhhh.dll
+/Users/lubov_14/Projects/hhhh/hhhh/bin/Debug/net6.0/hhhh.pdb
+/Users/lubov_14/Projects/hhhh/hhhh/obj/Debug/net6.0/hhhh.csproj.AssemblyReference.cache
+/Users/lubov_14/Projects/hhhh/hhhh/obj/Debug/net6.0/hhhh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lubov_14/Projects/hhhh/hhhh/obj/Debug/net6.0/hhhh.AssemblyInfoInputs.cache
+/Users/lubov_14/Projects/hhhh/hhhh/obj/Debug/net6.0/hhhh.AssemblyInfo.cs
+/Users/lubov_14/Projects/hhhh/hhhh/obj/Debug/net6.0/hhhh.csproj.CoreCompileInputs.cache
+/Users/lubov_14/Projects/hhhh/hhhh/obj/Debug/net6.0/hhhh.dll
+/Users/lubov_14/Projects/hhhh/hhhh/obj/Debug/net6.0/ref/hhhh.dll
+/Users/lubov_14/Projects/hhhh/hhhh/obj/Debug/net6.0/hhhh.pdb
+/Users/lubov_14/Projects/hhhh/hhhh/obj/Debug/net6.0/hhhh.genruntimeconfig.cache
+/Users/lubov_14/Projects/hhhh/hhhh/obj/Debug/net6.0/refint/hhhh.dll
